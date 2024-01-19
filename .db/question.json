@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2336c3ef-e518-4da2-8acc-af53faa381f6",
+    "title": "How to make pc ?",
+    "method": "photo"
+  },
+  {
+    "id": "7e71412c-d23b-4756-b720-8316432dd508",
+    "title": "how to earn money from online",
+    "method": "mcq",
+    "data": [
+      {
+        "uniqueId": "923a675d-4427-45bd-befb-ca590be35a1e",
+        "value": "hello shamim"
+      }
+    ]
+  },
+  {
+    "id": "36e52a2f-09de-4b80-8c93-75d4577054b1",
+    "title": "How to make money from online",
+    "method": "photo"
+  }
+]

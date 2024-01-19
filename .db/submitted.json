@@ -1,0 +1,28 @@
+[
+  {
+    "id": "bc2dcacf-3715-4870-ac98-a3cbf88afd42",
+    "title": "how to earn money from online",
+    "body": [
+      {
+        "uniqueId": "923a675d-4427-45bd-befb-ca590be35a1e",
+        "value": "hello shamim",
+        "isTrue": true
+      }
+    ],
+    "method": "mcq"
+  },
+  {
+    "id": "554e3cba-abdc-4c0a-86e9-4c593ce2cb75",
+    "title": "How to make pc ?",
+    "file": "file-1705679190076-835569323.png",
+    "description": "sfasdf",
+    "method": "photo"
+  },
+  {
+    "id": "b3774ca9-3f33-47d2-80d8-fa0204e4d6e6",
+    "title": "How to make pc ?",
+    "file": "file-1705680766785-623139007.png",
+    "description": "hello world",
+    "method": "photo"
+  }
+]
